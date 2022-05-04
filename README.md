@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mcm219
-- 👀 I’m interested in software engineering, cloud architecture, security, and IoT
-- 🌱 I’m currently learning about everything listed above
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me ???
+- 👀 I’m interested in HPC, software engineering, cloud architecture, security, and IoT
+
 
 <!---
 mcm219/mcm219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
